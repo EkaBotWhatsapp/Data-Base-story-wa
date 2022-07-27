@@ -1,42 +1,194 @@
 [
   {
-    "flag": "JT",
-    "img": "https://top4top.io/][img]https://f.top4top.io/s_2398fe5df0.jpeg[/img][/url]",
-    "name": "jujutsu kaisen"
+    "index": 0,
+    "img": "https://k.top4top.io/s_2398dw5je0.jpeg",
+    "jawaban": "Wayne Mark Rooney",
+    "deskripsi": "Bocah Ajaib Inggris"
   },
   {
-    "flag": "BH",
-    "img": "https://top4top.io/][img]https://g.top4top.io/s_2398of46s1.jpeg[/img][/url]",
-    "name": "boku no hero"
+    "index": 1,
+    "img": "https://l.top4top.io/s_2398x2sjv1.jpeg",
+    "jawaban": "Pele",
+    "deskripsi": "Jago pada masanya, Dari brazil"
   },
   {
-   "flag": "DS"
-   "img": "https://top4top.io/][img]https://h.top4top.io/s_23983redf2.jpeg[/img][/url]"
-   "name": "demon slayer"
-   },
-   {
-   "flag": "NT"
-   "img": "https://top4top.io/][img]https://i.top4top.io/s_2398hheu83.jpeg[/img][/url]"
-   "name": "Naruto"
-   },
-   {
-   "flag": "OP"
-   "img": "https://top4top.io/][img]https://a.top4top.io/s_23982kukq0.jpeg[/img][/url]"
-   "name": "One punch man"
-   },
-   {
-   "flag": "DG"
-   "img": "https://top4top.io/][img]https://b.top4top.io/s_239818s0t1.jpeg[/img][/url]"
-   "name": "dragon ball"
-   },
-   {
-   "flag": "HK"
-   "img": "https://top4top.io/][img]https://c.top4top.io/s_2398t1n932.jpeg[/img][/url]"
-   "name": "Haikyu"
-   },
-   {
-   "flag": "HT"
-   "img": "https://top4top.io/][img]https://d.top4top.io/s_2398xp15m3.jpeg[/img][/url]"
-   "name": "HunterXHunter"
-   }
+    "index": 2,
+    "img": "https://a.top4top.io/s_2398w10sg2.jpeg",
+    "jawaban": "Digeo Maradona",
+    "deskripsi": "Telah Menjafi almarhum"
+  },
+  {
+    "index": 3,
+    "img": "https://b.top4top.io/s_2398tsuqz3.jpeg",
+    "jawaban": "Ricardo Kaka",
+    "deskripsi": "Pemain Timnas Brazil terganteng"
+  },
+  {
+    "index": 4,
+     "img": "https://c.top4top.io/s_23984cizv4.jpeg",
+     "jawaban": "Lionel Messi",
+     "deskripsi": "Goat Yang memiliki 7 balon do'r dan memiliki penyakit hormon penumbuhan Dan Rival Dari Ronaldo"
+  },
+  {
+    "index": 5,
+    "img": "https://d.top4top.io/s_23989tdeu5.jpeg",
+    "jawaban": "Cristiano Ronaldo",
+    "deskripsi": "Goat, yang memiliki 5 balon d'or dan Rival dari Messi"
+  },
+  {
+    "index": 6,
+    "img": "https://e.top4top.io/s_23985p73r6.jpeg",
+    "jawaban": "David Beckham",
+    "deskripsi": "Pemain Terganteng di Manchester united dan telah pensiun"
+  },
+  {
+    "index": 7,
+    "img": "https://b.top4top.io/s_23980ud430.jpeg",
+    "jawaban": "Ngolo Kante",
+    "deskripsi": "Pemain Dari chelsea"
+  },
+  {
+    "index": 8,
+    "img": "https://c.top4top.io/s_2398cj5061.jpeg",
+    "jawaban": "Luis Suarez",
+    "deskripsi": "pernah Menjadi Trio MSN"
+  },
+  {
+    "index": 9,
+    "img": "https://d.top4top.io/s_2398fdkl62.jpeg",
+    "jawaban": "Mohammed salah",
+    "deskripsi": "Pemain Yg pernah dipatahkan tangannya oleh Sergio Ramos"
+  },
+  {
+    "index": 10,
+    "img": "https://e.top4top.io/s_239822rvk3.jpeg",
+    "jawaban": "Carlos Henrique Casemiro",
+    "deskripsi": "Pemain Dari Madrid"
+  },
+  {
+    "index": 11,
+    "img": "https://f.top4top.io/s_2398qf6x74.jpeg",
+    "jawaban": "Marcelo viera da silva junior",
+    "deskripsi": "Pemain Dari madrid Yg memiliki Kemampuan mengontrol bola yg baik"
+  },
+  {
+    "index": 12,
+    "img": "https://g.top4top.io/s_2398p1sun5.jpeg",
+    "jawaban": "Kylian Mbappe",
+    "deskripsi": "Pemain Muda Dengan Speed Yang kencang dari psg"
+  },
+  {
+    "index": 13,
+    "img": "https://h.top4top.io/s_2398p30t56.jpeg",
+    "jawaban": "Pepe",
+    "deskripsi": "Bek andalan madrid"
+  },
+  {
+    "index": 14,
+    "img": "https://i.top4top.io/s_2398pnzqk7.jpeg",
+    "jawaban": "Sadio mane",
+    "deskripsi": "Pemain Liverpool yang pindah ke bayern munchen"
+  },
+  {
+    "index": 15,
+    "img": "https://j.top4top.io/s_23982uw6u8.jpeg",
+    "jawaban": "David Degea",
+    "deskripsi": "Kiper Dari manchester united"
+  },
+  {
+    "index": 16,
+    "img": "https://k.top4top.io/s_23984a9e79.jpeg",
+    "jawaban": "Sergio Ramos",
+    "deskripsi": "Bek Kematian Dari madrid"
+  },
+  {
+    "index": 17,
+    "img": "https://l.top4top.io/s_2398cfqd50.jpeg",
+    "jawaban": "Harry maguire",
+    "deskripsi": "pernah Membobolkan Gawang Di timnya sendiri"
+  },
+  {
+    "index": 18,
+    "img": "https://a.top4top.io/s_23985jqog1.jpeg",
+    "jawaban": "Karim benzema",
+    "deskripsi": "Pernah Memenangkan final ucl 2022 saat melawan liverpool"
+  },
+  {
+    "index": 19,
+    "img": "https://b.top4top.io/s_23988vfwz2.jpeg",
+    "jawaban": "Ronaldinho de assis moreira",
+    "deskripsi": "Pemain Dari Barca dulu"
+  },
+  {
+    "index": 20,
+    "img": "https://c.top4top.io/s_2398jg8k33.jpeg",
+    "jawaban": "Neymar da silva santos junior",
+    "deskripsi": "Pemain Muda brazil Yang Jago diving"
+  },
+  {
+    "index": 21,
+    "img": "https://d.top4top.io/s_2398s30fj4.jpeg",
+    "jawaban": "Gianluigi donnaruma",
+    "deskripsi": "Kiper terbaik Psg"
+  },
+  {
+    "index": 22,
+    "img": "https://g.top4top.io/s_2398azv9r0.jpeg",
+    "jawaban": "Ousmane dembele",
+    "deskripsi": "Pemain Barca yg muslim"
+  },
+  {
+    "index": 23,
+    "img": "https://h.top4top.io/s_2398zt10i1.jpeg",
+    "jawaban": "Iker casillas fernandez",
+    "deskripsi": "Kiper madrid Yang sangat Bagus"
+  },
+  {
+    "index": 24,
+    "img": "https://b.top4top.io/s_2399zfdhr0.jpeg",
+    "jawaban": "Keylor navas",
+    "deskripsi": "Kiper Terbaik Dari psg"
+  },
+  {
+    "index": 25,
+    "img": "https://c.top4top.io/s_2399nui9h1.jpeg",
+    "jawaban": "Erling halland",
+    "deskripsi": "Striker dari Borusia dormuntd Dan Telah pindah ke Manchester City"
+  },
+  {
+    "index": 26,
+    "img": "https://d.top4top.io/s_23991ior22.jpeg",
+    "jawaban": "Toni Kroos",
+    "deskripsi": "Pemain Madrid yang telah hampir pensiun"
+  },
+  {
+    "index": 27,
+    "img": "https://e.top4top.io/s_2399ltfii3.jpeg",
+    "jawaban": "Thibaus Nicolas marc courtois",
+    "deskripsi": "Kiper Terbaik Dari Madrid Sekarang"
+  },
+  {
+    "index": 28,
+    "img": "https://f.top4top.io/s_2399689qi4.jpeg",
+    "jawaban": "Thomas muller",
+    "deskripsi": "striker dari Bayern munchen"
+  },
+  {
+    "index": 29,
+    "img": "https://j.top4top.io/s_2399e5djc0.jpeg",
+    "jawaban": "Johan Cruyff",
+    "deskripsi": "Pemain Dari barcelona yg telah menjadi pelatih"
+  },
+  {
+    "index": 30,
+    "img": "https://k.top4top.io/s_2399eg1ty1.jpeg",
+    "jawaban": "Robert lewandowski",
+    "deskripsi": "Striker dari Munchen yang telah pindah ke barcelona"
+  },
+  {
+    "index": 31,
+    "img": "https://l.top4top.io/s_2399pdwv82.jpeg",
+    "jawaban": "Eden hazard",
+    "deskripsi": "Striker terbaik Dari Borusia dormund"
+  }
 ]
