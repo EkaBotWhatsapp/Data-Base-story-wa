@@ -1,212 +1,253 @@
 [
   {
-    "flag": "KL",
+    "index": 0,
     "img": "https://g.top4top.io/p_2401hn8qo0.jpg",
-    "name": "Kuda Laut"
+    "jawaban": "Kuda Laut",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "JR",
+    "index": 1,
     "img": "https://h.top4top.io/p_2401zp4di1.jpg",
-    "name": "Jerapah"
+    "jawaban": "Jerapah",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "BK",
+    "index": 2,
     "img": "https://i.top4top.io/p_2401crm852.jpeg",
-    "name": "Bebek"
+    "jawaban": "Bebek",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "SP",
+    "index": 3,
     "img": "https://j.top4top.io/p_2401miwdg3.jpeg",
-    "name": "Sapi"
+    "jawaban": "Sapi",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "DB",
+    "index": 4,
     "img": "https://k.top4top.io/p_2401tqaoo4.jpeg",
-    "name": "Domba"
+    "jawaban": "Domba",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KL",
+    "index": 5,
     "img": "https://l.top4top.io/p_2401kohcn5.jpeg",
-    "name": "Kudanil"
+    "jawaban": "Kudanil",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "AM",
+    "index": 6,
     "img": "https://a.top4top.io/p_240128d1c6.jpeg",
-    "name": "Ayam"
+    "jawaban": "Ayam",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KC",
+    "index": 7,
     "img": "https://b.top4top.io/p_2401fk2ve7.jpeg",
-    "name": "Kucing"
+    "jawaban": "Kucing",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "AG",
+    "index": 8,
     "img": "https://c.top4top.io/p_2401e7pwd8.jpeg",
-    "name": "Anjing"
+    "jawaban": "Anjing",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "HR",
+    "index": 9,
     "img": "https://d.top4top.io/p_2401ilt399.jpeg",
-    "name": "Harimau"
+    "jawaban": "Harimau",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "SG",
+    "index": 10,
     "img": "https://f.top4top.io/p_2401d50800.jpeg",
-    "name": "Singa"
+    "jawaban": "Singa",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "BY",
+    "index": 11,
     "img": "https://g.top4top.io/p_2401aspx21.jpeg",
-    "name": "Buaya"
+    "jawaban": "Buaya",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "UR",
+    "index": 11,
     "img": "https://h.top4top.io/p_2401aw8jt2.jpeg",
-    "name": "Ular"
+    "jawaban": "Ular",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KD",
+    "index": 12,
     "img": "https://f.top4top.io/p_2401tp7hc0.jpeg",
-    "name": "Kuda"
+    "jawaban": "Kuda",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "GJ",
+    "index": 13,
     "img": "https://g.top4top.io/p_2401iso7n1.jpeg",
-    "name": "Gajah"
+    "jawaban": "Gajah",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "BU",
+    "index": 14,
     "img": "https://a.top4top.io/p_2401ta8311.jpg",
-    "name": "Beruang"
+    "jawaban": "Beruang",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "LB",
+    "index": 15,
     "img": "https://b.top4top.io/p_2401xlopi2.jpeg",
-    "name": "lovebird"
+    "jawaban": "Lovebird",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "PD",
+    "index": 16,
     "img": "https://c.top4top.io/p_2401vd3xu3.jpg",
-    "name": "Panda"
+    "jawaban": "Panda",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KR",
+    "index": 17,
     "img": "https://d.top4top.io/p_2401ol9634.jpg",
-    "name": "Kera"
+    "jawaban": "Kera",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "ZB",
+    "index": 18,
     "img": "https://e.top4top.io/p_2401dczac5.jpg",
-    "name": "Zebra"
+    "jawaban": "Zebra",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "CT",
+    "index": 19,
     "img": "https://f.top4top.io/p_2401x5bxb6.jpg",
-    "name": "Cheetah"
+    "jawaban": "Cheetah",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "LD",
+    "index": 20,
     "img": "https://g.top4top.io/p_2401y2a1k7.jpg",
-    "name": "Landak"
+    "jawaban": "Landak",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": QK",
+    "index": 21,
     "img": "https://h.top4top.io/p_2401dyf3q8.jpeg",
-    "name": "Quokka"
+    "jawaban": "Quokka",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KT",
+    "index": 22,
     "img": "https://i.top4top.io/p_2401or71o9.jpg",
-    "name": "Katak"
+    "jawaban": "Katak",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "AD",
+    "index": 23,
     "img": "https://b.top4top.io/p_24013aook1.jpg",
-    "name": "Armadillo"
+    "jawaban": "Armadillo",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KP",
+    "index": 24,
     "img": "https://c.top4top.io/p_2401ogdlx2.jpg",
-    "name": "Kupu Kupu"
+    "jawaban": "Kupu Kupu",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "LM",
+    "index": 25,
     "img": "https://d.top4top.io/p_24017so3x3.jpg",
-    "name": "Llama"
+    "jawaban": "Llama",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "KG",
+    "index": 26,
     "img": "https://e.top4top.io/p_2401srx8b4.jpeg",
-    "name": "Kangguru"
+    "jawaban": "Kangguru",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "SG",
+    "index": 27,
     "img": "https://f.top4top.io/p_2401krby25.jpg",
-    "name": "Sugar Glide"
+    "jawaban": "Sugar Glide",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "RB",
+    "index": 28,
     "img": "https://g.top4top.io/p_240140xfa6.jpg",
-    "name": "Rubah"
+    "jawaban": "Rubah",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "BD",
+    "index": 29,
     "img": "https://h.top4top.io/p_2401rhebk7.jpg",
-    "name": "Badak"
+    "jawaban": "Badak",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "UT",
+    "index": 30,
     "img": "https://i.top4top.io/p_24011a1848.jpg",
-    "name": "Unta"
+    "jawaban": "Unta",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "TK",
+    "index": 31,
     "img": "https://j.top4top.io/p_2401j83lx9.jpg",
-    "name": "Tikus"
+    "jawaban": "Tikus",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "TP",
+    "index": 32,
     "img": "https://k.top4top.io/p_2401tskeu10.jpg",
-    "name": "Tapir"
+    "jawaban": "Tapir",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "TP",
+    "index": 33,
     "img": "https://f.top4top.io/p_2401qv1v71.jpg",
-    "name": "Tupai"
+    "jawaban": "Tupai",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "MK",
+    "index": 34,
     "img": "https://g.top4top.io/p_2401h63rq2.jpeg",
-    "name": "Merak"
+    "jawaban": "Merak",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "PM",
+    "index": 35,
     "img": "https://h.top4top.io/p_24017i1iw3.jpeg",
-    "name": "Panda Merah"
+    "jawaban": "Panda Merah",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "PB",
+    "index": 36,
     "img": "https://i.top4top.io/p_2401w6f8x4.jpg",
-    "name": "Paus Pembunuh"
+    "jawaban": "Paus Pembunuh",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "UB",
+    "index": 37,
     "img": "https://j.top4top.io/p_2401daeh25.jpg",
-    "name": "Ubur Ubur"
+    "jawaban": "Ubur Ubur",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "HU",
+    "index": 38,
     "img": "https://k.top4top.io/p_24015cimj6.jpeg",
-    "name": "Hiu"
+    "jawaban": "Hiu",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "DG",
+    "index": 39,
     "img": "https://l.top4top.io/p_24014qf027.jpg",
-    "name": "Dugong"
+    "jawaban": "Dugong",
+    "deskripsi": "Hewan Apa Hayo"
   },
   {
-    "flag": "PB",
+    "index": 40,
     "img": "https://a.top4top.io/p_2401s1uzx8.jpg",
-    "name": "Paus Biru"
-  }
-]
+    "jawaban": "Paus Biru",
+    "deskripsi": "Hewan Apa Hayo"
+  },
